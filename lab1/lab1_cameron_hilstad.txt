@@ -1,0 +1,7 @@
+'mkdir cs125_labs' - creates folder
+'cd cs125_labs' - moves into folder
+'vim lab1_cameron_hilstad.txt' - opens this file with vim for editing
+'i' - insert
+*type everything in here*
+'esc' - stop inserting text
+':wq' - write file and quit vim
