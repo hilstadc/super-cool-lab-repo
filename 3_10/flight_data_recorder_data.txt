@@ -3,3 +3,13 @@
 103,United Airlines
 104,Southwest Airlines
 105,JetBlue Airways
+103,Delta Airlines
+278,United Airlines
+451,American Airlines
+362,Southwest Airlines
+189,Alaska Airlines
+547,JetBlue Airways
+724,Spirit Airlines
+315,Frontier Airlines
+689,Hawaiian Airlines
+902,Air Canada
